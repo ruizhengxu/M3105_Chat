@@ -28,7 +28,7 @@ Nous simulerons une communication persistante entre le client et le serveur, pou
 
 ### Conception & UI
 
-- Utilisation de [Boostrap](http://getboostrap.com)
+- Utilisation de [Bootstrap](http://getbootstrap.com/)
 
 ### Pages
 
