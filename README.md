@@ -9,6 +9,23 @@ Nous simulerons une communication persistante entre le client et le serveur, pou
 
 ## Implémentation
 
+### Prérequis
+
+- Installer [Webstorm](https://www.jetbrains.com/webstorm/)
+- Installer [npm](https://nodejs.org/en/download/)
+- Installer les dépendances de WebSocket et express  
+
+    >  `npm install express`  
+       `npm install ws`
+
+- Lancer le serveur
+
+    > `node nomFichier.js`
+
+- Aller sur le site
+
+    > `localhost:numeroPort`
+
 ### Conception & UI
 
 - Utilisation de [Boostrap](http://getboostrap.com)
