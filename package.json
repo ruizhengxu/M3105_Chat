@@ -12,6 +12,9 @@
   "dependencies": {
     "bootstrap": "^4.4.1",
     "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "jsdom": "^15.2.1",
+    "material-design-icons": "^3.0.1",
     "ws": "^7.2.0"
   }
 }

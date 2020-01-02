@@ -20,11 +20,15 @@ Nous simulerons une communication persistante entre le client et le serveur, pou
 
 - Lancer le serveur
 
-    > `node nomFichier.js`
+    > `node serveur.js`
 
-- Aller sur le site
+- Voir si le serveur est lancé
 
     > `localhost:numeroPort`
+
+- Aller sur la page de connexion
+
+    > Lancez le ficheir login.html
 
 ### Conception & UI
 
@@ -33,5 +37,6 @@ Nous simulerons une communication persistante entre le client et le serveur, pou
 ### Pages
 
 - Page Login
-    - Qui dialogue avec le serveur Node.js (et liste les utilisateurs)
+    - Qui dialogue avec le serveur Node.js
 - Page Chat 
+    - Qui affiche les messages qu'on a tapé, dialogue aussi avec le serveur

@@ -1,0 +1,16 @@
+html, body{
+    height: 100%;
+}
+
+.small {
+    margin-bottom: 0px;
+}
+
+.messageContainer {
+    margin-bottom: 50px;
+}
+
+#chatContainer {
+    height: 500px;
+    overflow: auto;
+}
